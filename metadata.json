@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Deadline Guardian",
+  "description": "An AI-powered productivity assistant that scans Gmail and Calendar to help you track, plan, and beat your deadlines.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
